@@ -1,0 +1,6 @@
+2026-05-25 23:15:46,412 - INFO - Iniciando Pipeline de Datos de Ventas...
+2026-05-25 23:15:46,420 - INFO - Ingesta exitosa: 20 registros cargados.
+2026-05-25 23:15:46,431 - INFO - Limpieza estructural y de fechas completada.
+2026-05-25 23:15:46,434 - WARNING - Validación: se descartaron 10 registros por anomalías (precios, productos o fechas inválidas).
+2026-05-25 23:15:46,437 - INFO - Seguridad: datos sensibles anonimizados.
+2026-05-25 23:15:46,763 - INFO - Carga exitosa: Archivo guardado en data\processed\ventas_final.csv

@@ -1,0 +1,12 @@
+id,precio,fecha,nombre,ciudad,productos,email,id_vendedor,precio_limpio,ciudad_limpia,email_anonimo
+1,10000,01/09/2023,JUAN LOPEZ,Santiago,2.0,juan.lopez@gmail.com,0,10000.0,SANTIAGO,jua***@dominio.com
+2,$5000,01/10/2023,Roberto Alfredo,Concepcion,5.0,roberto.alfredo@gmail.com,0,5000.0,CONCEPCION,rob***@dominio.com
+5,156000,04/10/2023,Juan Lopez,Santiago,1.0,juan.lopez@gmail.com,1,156000.0,SANTIAGO,jua***@dominio.com
+7,84500,/2023-10-01,Pedro Sanchez,CONCEPCION,2.0,pedro.sanchez@gmail.com,2,84500.0,CONCEPCION,ped***@dominio.com
+8,120000,07/10/2023,Roberto Alfredo,Concepcion,4.0,roberto.alfredo@gmail.com,3,120000.0,CONCEPCION,rob***@dominio.com
+9,$2000,08/10/2023,carlos silva,Valparaiso,2.0,carlos.silva@gmail.com,3,2000.0,VALPARAISO,car***@dominio.com
+10,6000,09/10/2023,carlos silva,Valparaiso,5.0,carlos.silva@gmail.com,5,6000.0,VALPARAISO,car***@dominio.com
+13,10000,12/01/2024,Juan Lopez,sANTIAGO,5.0,juan.lopez@gmail.com,3,10000.0,SANTIAGO,jua***@dominio.com
+15,6000,14/10/2023,Carolina Herrera,Valdivia,9.0,carolina.herrera@gmail.com,1,6000.0,VALDIVIA,car***@dominio.com
+17,56000,16/10/2024,Roberto Alfredo,Concepcion,5.0,roberto.alfredo@gmail.com,3,56000.0,CONCEPCION,rob***@dominio.com
+20,65000,19/10/2024,Roberto Alfredo,Concepcion,1.0,roberto.alfredo@gmail.com,4,65000.0,CONCEPCION,rob***@dominio.com

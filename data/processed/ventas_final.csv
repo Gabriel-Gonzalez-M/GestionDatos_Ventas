@@ -1,0 +1,11 @@
+id,precio,fecha,nombre,ciudad,productos,email,id_vendedor,precio_limpio,ciudad_limpia,fecha_dt,fecha_limpia
+1,10000,01/09/2023,JUAN LOPEZ,Santiago,2.0,jua***@dominio.com,0,10000.0,SANTIAGO,2023-09-01,2023-09-01
+2,$5000,01/10/2023,Roberto Alfredo,Concepcion,5.0,rob***@dominio.com,0,5000.0,CONCEPCION,2023-10-01,2023-10-01
+5,156000,04/10/2023,Juan Lopez,Santiago,1.0,jua***@dominio.com,1,156000.0,SANTIAGO,2023-10-04,2023-10-04
+8,120000,07/10/2023,Roberto Alfredo,Concepcion,4.0,rob***@dominio.com,3,120000.0,CONCEPCION,2023-10-07,2023-10-07
+9,$2000,08/10/2023,carlos silva,Valparaiso,2.0,car***@dominio.com,3,2000.0,VALPARAISO,2023-10-08,2023-10-08
+10,6000,09/10/2023,carlos silva,Valparaiso,5.0,car***@dominio.com,5,6000.0,VALPARAISO,2023-10-09,2023-10-09
+13,10000,12/01/2024,Juan Lopez,sANTIAGO,5.0,jua***@dominio.com,3,10000.0,SANTIAGO,2024-01-12,2024-01-12
+15,6000,14/10/2023,Carolina Herrera,Valdivia,9.0,car***@dominio.com,1,6000.0,VALDIVIA,2023-10-14,2023-10-14
+17,56000,16/10/2024,Roberto Alfredo,Concepcion,5.0,rob***@dominio.com,3,56000.0,CONCEPCION,2024-10-16,2024-10-16
+20,65000,19/10/2024,Roberto Alfredo,Concepcion,1.0,rob***@dominio.com,4,65000.0,CONCEPCION,2024-10-19,2024-10-19

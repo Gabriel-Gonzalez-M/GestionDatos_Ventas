@@ -1,0 +1,21 @@
+id,precio,fecha,nombre,ciudad,productos,email,id_vendedor
+1,10000,01/09/2023,JUAN LOPEZ,Santiago,2,juan.lopez@gmail.com,0
+2,$5000,01/10/2023,Roberto Alfredo,Concepcion,5,roberto.alfredo@gmail.com,0
+3,,02/10/2023,Carolina Herrera,Valdivia,5,carolina.herrera@gmail.com,1
+4,6000,02/11/2023,Juan Lopez,Valparaiso,-6,juan.lopez@gmail.com,2
+5,156000,04/10/2023,Juan Lopez,Santiago,1,juan.lopez@gmail.com,1
+6,-45000,05/12/2023,Pedro Sanchez,Santiago,,pedro.sanchez@gmail.com,3
+7,84500,/2023-10-01,Pedro Sanchez,CONCEPCION,2,pedro.sanchez@gmail.com,2
+8,120000,07/10/2023,Roberto Alfredo,Concepcion,4,roberto.alfredo@gmail.com,3
+9,$2000,08/10/2023,carlos silva,Valparaiso,2,carlos.silva@gmail.com,3
+10,6000,09/10/2023,carlos silva,Valparaiso,5,carlos.silva@gmail.com,5
+11,65000,/2023-10-01,Roberto Alfredo,,-1,roberto.alfredo@gmail.com,0
+12,-15000,11/10/2023,Carolina Herrera,Valdivia,8,carolina.herrera@gmail.com,5
+13,10000,12/01/2024,Juan Lopez,sANTIAGO,5,juan.lopez@gmail.com,3
+14,,13/03/2024,Roberto Alfredo,Concepcion,4,roberto.alfredo@gmail.com,4
+15,6000,14/10/2023,Carolina Herrera,Valdivia,9,carolina.herrera@gmail.com,1
+16,$0000,15/10/2024,, Valdivia,,carolina.herrera@gmail.com,5
+17,56000,16/10/2024,Roberto Alfredo,Concepcion,5,roberto.alfredo@gmail.com,3
+18,-6600,17/10/2024,Carolina Herrera,Valdivia,4,carolina.herrera@gmail.com,4
+19,AAA,18/10/2024,Juan Lopez,,8,juan.lopez@gmail.com,6
+20,65000,19/10/2024,Roberto Alfredo,Concepcion,1,roberto.alfredo@gmail.com,4
